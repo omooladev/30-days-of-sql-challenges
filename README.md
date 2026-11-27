@@ -85,9 +85,11 @@ Once seeded, `02_seed.sql` automatically verifies table integrity and prints the
 
 ## 📅 30-Day Challenge Roadmap
 
-| Day | Topic / Challenge | Operator / Concept | Question | Solution | LinkedIn Breakdown |
-| :-: | :--- | :--- | :-: | :-: | :-: |
-| 01 | Product Logistics Surcharge | `+`, Column Aliasing (`AS`) | [README](./challenges/day-01-price-markup/README.md) | [SQL](./challenges/day-01-price-markup/query.sql) | [View Post](#) |
+| Day | Topic / Challenge | Question | Solution | LinkedIn Breakdown |
+| :-: | :--- | :-: | :-: | :-: |
+| 01 | Product Logistics Surcharge | [README](./challenges/day-01-price-markup/README.md) | [SQL](./challenges/day-01-price-markup/query.sql) | [View Post](https://lnkd.in/p/eVSn2Q-H) |
+| 02 | Promotional Discount | [README](./challenges/day-02-promotional-discount/README.md) | [SQL](./challenges/day-02-promotional-discount/query.sql) | [View Post](https://lnkd.in/p/er4N83Cf) |
+| 03 | Order Line Item Subtotals | [README](./challenges/day-03-Order-Line-Item-Subtotals/README.md) | [SQL](./challenges/day-03-Order-Line-Item-Subtotals/query.sql) | [View Post](https://lnkd.in/p/eXUGUmJf) |
 
 ---
 
